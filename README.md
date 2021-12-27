@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Website that can discover a movie, see a detail and watch a movie. (simulated), see demo page on [https://assessment-wishperhope.netlify.app/](https://assessment-wishperhope.netlify.app/)
+Website that can discover a movie, see a detail and watch a movie. (simulated), see demo page on [https://netlfix-clone-cinte-dyns.netlify.app/](https://netlfix-clone-cinte-dyns.netlify.app/)
 
 ## Technology Used
 
