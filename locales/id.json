@@ -1,0 +1,31 @@
+{
+    "page" : {
+        "home": {
+            "header" : "Jelajahi 50.000+ Film",
+            "subHeader" : "Tonton dimana pun. Batalkan kapan saja",
+            "CTA": "Mulai Sekarang"
+        },
+        "movies" : {
+            "CTA" : "Tonton Sekarang",
+            "bestOfAll" : "Yang Terbaik"
+        },
+        "movieSlug": {
+            "CTA": "Putar Sekarang",
+            "credits": "Pemeran",
+            "productionCompnanies" : "Perusahan Produksi",
+            "seeMore" : "Liat Lebih Lanjut",
+            "rating" : "Rating"
+        },
+        "error" : {
+            "message" : "Telah terjadi Error Silakan Coba Kembali, Terima Kasih."
+        }
+    },
+    "shared": {
+        "navbar" : {
+            "allGenre" : "Semua Genre",
+            "search" : "Cari",
+            "viewPlans" : "Lihat Paket Harga",
+            "searchPlaceHolder" : "Coba Cari On Ward"
+        }
+    }
+}

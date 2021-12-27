@@ -1,0 +1,31 @@
+{
+    "page" : {
+        "home": {
+            "header" : "Explore 50.000+ Movies",
+            "subHeader" : "Watch anywhere. Cancel anytime",
+            "CTA": "Get Started"
+        },
+        "movies" : {
+            "CTA" : "Watch Now",
+            "bestOfAll" : "Best Of All"
+        },
+        "movieSlug": {
+            "CTA": "Play Now",
+            "credits": "Credits",
+            "productionCompnanies" : "Production Companies",
+            "seeMore" : "See More",
+            "rating" : "Rating"
+        },
+        "error" : {
+            "message" : "Error has been occured, Please try again later, Thank you."
+        }
+    },
+    "shared": {
+        "navbar" : {
+            "allGenre" : "All Genre",
+            "search" : "Search",
+            "viewPlans" : "Views Plans",
+            "searchPlaceHolder" : "Try Search On Ward"
+        }
+    }
+}
