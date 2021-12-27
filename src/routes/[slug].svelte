@@ -42,7 +42,7 @@
 			await genres.load();
 		}
 		if (!$movies.isLoaded) {
-			await movies.load($genres.data[$locale].map((genre: Genre) => genre.id).slice(0,8));
+			await movies.load($genres.data[$locale].map((genre: Genre) => genre.id).slice(0,9));
 			movies.injectGenres($genres);
 		}
 		movie = await $movieBySlug(slug)

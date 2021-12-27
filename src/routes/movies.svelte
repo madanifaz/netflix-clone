@@ -40,7 +40,7 @@
 			if (limitGenreObject) {
 				await movies.load([limitGenreObject.id]);
 			} else {
-				await movies.load($genres.data[$locale].map((genre: Genre) => genre.id).slice(0, 8));
+				await movies.load($genres.data[$locale].map((genre: Genre) => genre.id).slice(0, 9));
 			}
 			movies.injectGenres($genres);
 		}
@@ -86,7 +86,7 @@ u
 		{/if}
 
 		<!-- Genre -->
-		{#each limitGenreObject ? [limitGenreObject] : $genres.data[$locale].slice(0, 8) as genre}
+		{#each limitGenreObject ? [limitGenreObject] : $genres.data[$locale].slice(0, 9) as genre}
 			<MovieCardsCarousel title={genre.name} moviesList={$moviesFilteredByGenreID(genre.id)}>
 				<div
 					slot="items"
